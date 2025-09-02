@@ -11,6 +11,3 @@
 ## 📫 Contact
 - email: son2wg@gmail.com
 - instagram: [yihyle](https://www.instagram.com/yihyle)
-
-![GitHub followers](https://img.shields.io/github/followers/yihyle?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yihyle?style=social)
