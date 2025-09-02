@@ -12,4 +12,5 @@
 - email: son2wg@gmail.com
 - instagram: [yihyle](https://www.instagram.com/yihyle)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yihyle&theme=react-dark)
+![GitHub followers](https://img.shields.io/github/followers/yihyle?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yihyle?style=social)
