@@ -12,4 +12,4 @@
 - email: son2wg@gmail.com
 - instagram: [yihyle](https://www.instagram.com/yihyle)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yihyle&theme=radical)
