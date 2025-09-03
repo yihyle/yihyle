@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&section=header&reversal=true&textBg=false&fontColor=fff&fontSize=60&animation=blinking)
 
 # 👋 안녕하세요
+### 안녕하세요, 경북소프트웨어고등학교에 재학중인 이현석입니다.
+### 프론트엔드를 공부 중입니다.
 
 ## 💻 Stack
 
